@@ -1,5 +1,3 @@
-// Para responder a essa pergunta, podemos primeiro calcular o tempo que leva para o carro e o caminhão se encontrarem. Como eles estão se movendo em direções opostas, podemos somar suas velocidades para obter a velocidade relativa entre os dois veículos:
-// 
 // 110 km/h + 80 km/h = 190 km/h
 // 
 // A distância total que eles precisam percorrer é de 100 km, e a velocidade relativa é de 190 km/h, então podemos usar a fórmula da velocidade média para calcular o tempo necessário para que eles se encontrem:
